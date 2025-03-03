@@ -1,6 +1,5 @@
 # Hi there 👋
 ### About me
-<img align="right" height="190" src="https://i.imgflip.com/65efzo.gif" />
 
 I'm **Wissem**,  
 🚀 **Data Analyst** | Passionate about Data Science & Machine Learning </br>
