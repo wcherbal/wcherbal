@@ -91,6 +91,20 @@ I'm **Wissem**,
 
 </div>
 
+### What I can bring to you:
+
+✔️ **Automation of over 100 hours of reporting using Power BI**  
+  *Reduction of manual tasks by 90% through the integration of automated processes and the creation of dynamic, interactive reports.*
+
+✔️ **Creation of a strategic dashboard monitored by management for commercial performance tracking**  
+
+✔️ **Automatic cleaning and consolidation of over 200 Excel files using Python and Power Query**  
+
+✔️ **Optimization and advanced management of databases with SQL**  
+
+✔️ **Automation of data update processes in SQL databases**  
+
+✔️ **Advanced data visualization with Power BI and SQL**  
 
 
 
